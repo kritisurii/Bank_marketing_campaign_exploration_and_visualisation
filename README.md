@@ -1,0 +1,2 @@
+# Bank_marketing_campaign_exploration_and_visualisation
+Data exploration and visualization project on bank_marketing_campaign dataset using python
